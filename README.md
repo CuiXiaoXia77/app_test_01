@@ -1,4 +1,4 @@
 # app_test_01
 
-baibai python
+baibai
 hello kitty
